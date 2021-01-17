@@ -2,36 +2,58 @@
 
 您可以透過以下網址 [editor on GitHub](https://github.com/gameboy93102/Engineer/edit/gh-pages/index.md) 找到有關我在github上，包括本次工程師培訓計畫的所有程式訊息。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+以下是我針對本次計畫事前問題的回覆。
 
-### Markdown
+### 兩百字內的個人簡介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+您好，我是趙亨。
+過去的學經歷都是圍繞在金融服務相關，因此對於程式學習非常陌生。
+本身非常懶，因此往往追求效率，不能接受任何步驟上有所缺陷，導致作業上的拖延。
+但很多時候問題出現在使用的軟體上，因此希望能透過程式學習，滿足自己對於效率的要求。
+對於學習有著強烈渴望，在平時的下班時間，有積極安排語言或是金融相關知識的進修，對於有著兩者交集的程式語言有著強烈興趣。
+期許能夠透過這個計畫，能讓我的興趣與專長相輔相成，拓寬自己的視野以及專業，能讓未來職涯能有更好的发展機會。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 為什麼想成為工程師 ( 請以自我期許帶入：前端、後端、或全端工程師 )
 
-1. Numbered
-2. List
+會希望以後端工程師起步，最後逐漸成為全端工程師。
+會以後後端工程師為目標，是想要結合自己在金融領域的專長，在金融領域之中，需要處理大量的訊息，因此各家金融機構，不論是銀行、證券還是投顧保險，對於客戶的訊息都是高度重視，因此近幾年都開始大力招募資訊人才，以應付金融數位化的轉型。
+時至今日，各大金融機構的網站或是app依然有很大的改善空間，同時也持續再招聘人才，以在使用者體驗上搶先競爭對手一步。
+同時傳統金融業，所提供的崗位，大多是業務掛帥，希望在業務能力之外，能夠過程式提升自己分析能力，以便在職場中有更多選擇與競爭力。
 
-**Bold** and _Italic_ and `Code` text
+### 為了成為工程師，曾經做過什麼努力？
 
-[Link](url) and ![Image](src)
-```
+先前有短暫學習過PYTHO的經驗。
+因為PYTHON在金融領域的使用比較廣泛，同時有比較多的套件以及相對簡便的操作，因此作為入門學習的語言。
+當時每天安排1～2小時，搭配老師您的影片課程或是其他教學進行操作練習。
+不過後來因為发現到，單單只有PYTHON的能力，是難以達到就職的需求門檻，因此來報名老師的課程，想要有更多方面，更能適應職場需求的程式能力。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 對於工程師的職業想像是什麼？
 
-### Jekyll Themes
+每天應付各種被臨時要求的功能，越修越多的BUG,因此電腦永遠都停留在黑色的CODING畫面。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gameboy93102/Engineer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 如果參與這個計畫，會怎麼安排學習時間？
 
-### Support or Contact
+由於本身還有正職工作，因此在投入上的時間會相對縮減。
+目前預計是每天下班安排4～5小時，假日安排12小時，一周大約44～49小時。
+雖然時間安排上很吃緊，但沒辦法失去收入的情況下，我只能盡可能擠出剩餘的時間參與到底。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 如果參與這個計畫，預期會碰到什麼困難？你打算怎麼解決它？
+
+1. 時間不足，就算我勉強擠出時間，依目前水準可能還是遠遠不夠。
+
+ANS.時間資源終究有限，沒辦法靠外力增加時間，我只能在受訓期間，減少加班以及其他雜務的時間浪費，確保至少能保住既有的學習時間。
+
+2. 基礎不夠，雖然有很淺的PYTHON經驗，但其實能看作零經驗。
+
+ANS.就算一時間沒辦法從老師提供的教程中完全理解，但網路上相關的學習資源也很多，何況踏入職場後，工程師的學習依然沒有止步的一天。
+因此讓自己提早認識這一點，並且培養理解真正的問題以及找尋答案的能力，會幫助我在這條路走得更長久。
+
+
+### 想要對我們說的事情？
+
+很感謝提供這個機會，能夠給予完全無相關經驗的人，從零開始逐步踏入這行的機會。
+除了期許自己能順利完成計畫，踏入這一行外，也希望能加入這個工程師社群，為其他同樣在工程師道路上迷惘的人提供幫助。
+
+順道一提，我原本以為這個事前回答，是要每人自行寫一份html網頁，並且上傳到github，結果完成後才發現似乎不是這麼一回事，但還是順便將html與css都放上這個專案了。
