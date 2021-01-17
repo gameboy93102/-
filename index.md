@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/gameboy93102/Engineer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+您可以透過以下網址 [editor on GitHub](https://github.com/gameboy93102/Engineer/edit/gh-pages/index.md) 找到有關我在github上，包括本次工程師培訓計畫的所有程式訊息。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
